@@ -1,2 +1,2 @@
 # anime-kenya
-A community site built using Keystone.js
+A community site built using Vue.js
