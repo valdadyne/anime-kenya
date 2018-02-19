@@ -1,2 +1,2 @@
-# anime-kenya
-A community site built using Vue.js
+# GridBiz
+A Grid Css Website Theme
